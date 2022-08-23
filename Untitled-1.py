@@ -1,5 +1,6 @@
 import logging
 
+# new branch
 def use_logging(func):
 
     def wrapper():
